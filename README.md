@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Venkat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [web designing](https://webdesigningstudio.netlify.app/)
+- 🔭 I’m currently focusing on [Full stack development ](https://webdesigningstudio.netlify.app/)
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **back end development**
 
 - 👨‍💻 All of my projects are available at [https://venkatsportfolio.wordpress.com/](https://venkatsportfolio.wordpress.com/)
 
