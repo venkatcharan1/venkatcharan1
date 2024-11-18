@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **back end development**
 
-- 👨‍💻 All of my projects are available at [https://venkatsportfolio.wordpress.com/](https://venkatsportfolio.wordpress.com/)
+- 👨‍💻 All of my projects are available at [https://venkatsportfolio.wordpress.com/](https://venkatcharan.netlify.app/#)](https://venkatcharan.netlify.app/#)
 
 - 💬 Ask me about **developer**
 
