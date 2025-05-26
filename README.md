@@ -18,7 +18,7 @@
 - 🔭 I’m currently focusing on [Full stack development ](https://webdesigningstudio.netlify.app/)
 
 - 🌱 I’m currently learning **back end development**
-- 👨‍💻 All of my projects are available at https://venkatcharan.netlify.app/#
+- 👨‍💻 All of my projects are available at https://webdesignservicess.netlify.app/#
 
 - 💬 Ask me about **developer**
 
