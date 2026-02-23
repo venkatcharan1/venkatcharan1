@@ -6,10 +6,13 @@
 <br>
 <br>
 
+<<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;AI-Assisted+Builder;Building+Real+World+Projects;Creator+of+Vensellkart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatcharan1&show_icons=true&theme=tokyonight" />
 </p>
 
+<br>
 ---
 
 ## 🚀 About Me
