@@ -23,6 +23,8 @@
 
 ## 🛒 Featured Project – Vensellkart
 
+🔗 **Live Platform:** https://vensellkart.com  
+
 **Vensellkart** is a hybrid e-commerce ecosystem designed to help local businesses transition from manual WhatsApp-based selling to a structured and automated digital storefront.
 
 ### Key Highlights:
@@ -73,17 +75,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatcharan1&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=venkatcharan1&theme=tokyonight" />
-</p>
-
----
 
 ## ⚡ Fun Fact
 
