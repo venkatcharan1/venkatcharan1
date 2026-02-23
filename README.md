@@ -6,12 +6,8 @@
 <br>
 <br>
 
-<p align="center">&nbsp;</p>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=500&color=0E75B6&center=true&width=500&lines=Frontend+Web+Developer;AI-Assisted+Builder;Building+Real+World+Projects;Creator+of+Vensellkart" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;AI-Assisted+Builder;Building+Real+World+Projects;Creator+of+Vensellkart" />
 </p>
 
 ---
